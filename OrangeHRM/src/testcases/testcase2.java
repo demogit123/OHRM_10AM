@@ -2,10 +2,12 @@ package testcases;
 
 public class testcase2 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-  String s ="testcase";
-  System.out.println(s);
+	public static void main(String[] args) 
+	{
+		
+		
+		System.out.println("This is TestCase 2");
+		System.out.println("Testcase 2 updated...");
 	}
 
 }
